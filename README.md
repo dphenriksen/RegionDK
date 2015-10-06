@@ -1,5 +1,15 @@
-# "Comparison of the five Danish regions regarding demographic characteristics, healthcare utilization, and medication use - a descriptive cross-sectional study"
-## Raw data and a complete code to reproduce the study
+# "Comparison of the five Danish regions regarding demographic characteristics, healthcare utilization, and medication use - a descriptive cross-sectional study"  
+
+## How to use the codes  
+1. Download the contents of the repository into a folder  
+2. Rename the folder "RegionDK"  
+3. Change the "cd" command in the master.do file to the folder path  
+4. Run the master.do file in Stata  
+  
+  
+  
+  
+## Raw data and a complete code to reproduce the study  
 
 
 A description of the extraction of data from StatBank, noegletal.dk and medstat.dk.  
